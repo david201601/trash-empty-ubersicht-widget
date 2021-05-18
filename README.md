@@ -3,7 +3,7 @@
 This Übersicht widget is inspired by [Trash size](https://github.com/MrKireko/trash-size) with added trash clearing function and different styling.
 
 ## How to install widget
-[Download]()
+[Download](https://github.com/david201601/trash-empty-ubersicht-widget/releases/tag/v0.1-beta)
 
 Just copy the the plugin's folder to the widget folder on your machine.  
 See the [widget overview of Übersicht](http://tracesof.net/uebersicht-widgets/) for more information.
