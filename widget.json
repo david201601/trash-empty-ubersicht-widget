@@ -1,6 +1,6 @@
 {
-  "name": "Covid Today",
-  "description": "Simple widget to monitor and clear trash files",
+  "name": "Trash Emptied",
+  "description": "Simple widget to monitor and double-click to clear trash files",
   "author": "David Yee",
   "email": "davidseikyee@gmail.com"
 }
